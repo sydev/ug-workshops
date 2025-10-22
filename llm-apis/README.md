@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
-### Add .env file
+### Prerequisites
 
 Add .env file with following content:
 
@@ -10,11 +8,15 @@ Add .env file with following content:
 OPENAI_API_KEY=<key>
 ```
 
+### Installation
+
 Then, install dependencies:
 
 ```bash
 npm i
 ```
+
+### Run
 
 Last but not least, run the development server:
 
